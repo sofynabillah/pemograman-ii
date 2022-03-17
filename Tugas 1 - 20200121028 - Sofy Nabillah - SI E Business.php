@@ -79,7 +79,8 @@ echo $handphone2->hdrhidup();
 echo "<br>";
 echo $handphone2->peneranggambar();
 echo "<br>";
-echo $handphone 2->nyalakanmodemalam();
+echo $handphone2->nyalakanmodemalam();
+echo "<hr>";
 ?>
 
 
@@ -159,6 +160,6 @@ echo $sepeda2->hdrhidup();
 echo "<br>";
 echo $sepeda2->peneranggambar();
 echo "<br>";
-echo $sepeda 2->nyalakanmodemalam();
+echo $sepeda2->nyalakanmodemalam();
 ?>
 
